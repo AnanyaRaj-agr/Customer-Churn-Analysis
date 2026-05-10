@@ -90,7 +90,7 @@ An interactive Power BI dashboard was developed to visualize:
 
 ## Dashboard Preview
 
-(Add dashboard screenshot here)
+
 
 ---
 
