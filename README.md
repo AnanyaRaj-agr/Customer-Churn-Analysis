@@ -81,7 +81,7 @@ telecom-churn-analysis/
 
 ## How to Run
 1. Clone the repo
-git clone https://github.com/AnanyaRaj-agr/telecom-churn-analysis.git
+git clone https://github.com/AnanyaRaj-agr/Customer-Churn-Analysis.git
 2. Install dependencies
 pip install -r requirements.txt
 3. Open `notebooks/Customer_Churn_Analysis.ipynb` in Jupyter
